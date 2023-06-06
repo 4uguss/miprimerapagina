@@ -111,7 +111,7 @@ a {
 
     .nav-links.nav-links-responsive {
         position:absolute;
-        display: block;
+        display:flex;
         background-color: rgb(95, 91, 91);
         width: 150px;
         top: 60px;
@@ -121,7 +121,7 @@ a {
         gap:10px;
         font-size: 20px;
         text-align: center;
-        margin-left: 590px;
+        margin-left: 75%;
         margin-right: 100px;
         border-radius: 10px;
         padding-left: 10px;      
